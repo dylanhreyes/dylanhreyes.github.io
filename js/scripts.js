@@ -1,4 +1,4 @@
-let images = ["attheboard.jpg", "gtr.jpg", "headshot.jpeg", "piano1.jpg", "studiowork.JPG", "studio.jpg"];
+let images = ["attheboard.jpg", "gtr.jpg", "headshot.jpeg", "piano1.jpg"];
 
 (() => {
   document.getElementById("main-bg").style =
