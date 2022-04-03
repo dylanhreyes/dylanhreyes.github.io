@@ -1,6 +1,6 @@
-let images = ["cspresent.jpg", "cspresent2.jpeg", "cspresent3.jpeg", "mrdsax.jpg", "jazz.jpg","piano1.jpg", "piano2.jpg", "ptech.jpg", "ptech2.jpeg", "build.jpg"];
+let images = ["attheboard.jpg", "gtr.jpg", "headshot.jpeg", "piano1.jpg", "studiowork.JPG"];
 
 (() => {
   document.getElementById("main-bg").style =
-    `background-image: url('https://doongs.github.io/img/${images[Math.floor(Math.random() * images.length)]}'); height: 100vh`;
+    `background-image: url('https://dylanhreyes.github.io/img/${images[Math.floor(Math.random() * images.length)]}'); height: 100vh`;
 })();
